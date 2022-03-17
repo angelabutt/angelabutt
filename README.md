@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angelabutt
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning anything fun
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything fun! 
 - 📫 How to reach me: angela.butt@bestgateeng.com
 
 <!---
